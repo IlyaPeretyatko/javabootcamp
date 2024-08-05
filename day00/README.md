@@ -3,31 +3,9 @@
 
 *Takeaways: Today you will learn the basics of solving both trivial and more challenging business tasks using basic Java language constructs.*
 
-# Contents
-1. [Chapter I](#chapter-i) \
-	1.1. [Preamble](#preamble)
-2. [Chapter II](#chapter-ii) \
-	2.1. [General Rules](#general-rules)
-3. [Chapter III](#chapter-iii) \
-	3.1. [Rules of the Day](#rules-of-the-day)
-4. [Chapter IV](#chapter-iv) \
-	4.1. [Exercise 00 – Sum of Digits](#exercise-00-sum-of-digits)
-5. [Chapter V](#chapter-v) \
-	5.1. [Exercise 01 – Really Prime Number](#exercise-01-really-prime-number)
-6. [Chapter VI](#chapter-vi) \
-	6.1. [Exercise 02 – Endless Sequence (or not?)](#exercise-02-endless-sequence-or-not)
-7. [Chapter VII](#chapter-vii) \
-	7.1. [Exercise 03 – A Little Bit of Statistics](#exercise-03-a-little-bit-of-statistics)
-8. [Chapter VIII](#chapter-viii) \
-	8.1. [Exercise 04 – A Bit More of Statistics](#exercise-04-a-bit-more-of-statistics)
-9. [Chapter IX](#chapter-ix) \
-	9.1. [Exercise 05 – Schedule](#exercise-05-schedule)
-
-
 # Chapter I 
 ### Preamble
 
-![java-man](misc/images/java-man.png)<br>
 Java Man, or *Homo erectus erectus*
 
 # Chapter II
