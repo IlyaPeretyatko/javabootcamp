@@ -3,27 +3,6 @@
 
 *Takeaways: Today you will learn how to correctly model the operation of different collections and create a full-fledged money transfer application.*
 
-💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
-
-# Contents
-1. [Chapter I](#chapter-i) \
-	1.1. [Preamble](#preamble)
-2. [Chapter II](#chapter-ii) \
-	2.1. [General Rules](#general-rules)
-3. [Chapter III](#chapter-iii) \
-	3.1. [Introduction to exercises](#introduction-to-exercises)
-4. [Chapter IV](#chapter-iv) \
-	4.1. [Exercise 00 – Models](#exercise-00-models)
-5. [Chapter V](#chapter-v) \
-	5.1. [Exercise 01 – ID Generator](#exercise-01-id-generator)
-6. [Chapter VI](#chapter-vi) \
-	6.1. [Exercise 02 – List of Users](#exercise-02-list-of-users)
-7. [Chapter VII](#chapter-vii) \
-	7.1. [Exercise 03 – List of Transactions](#exercise-03-list-of-transactions)
-8. [Chapter VIII](#chapter-viii) \
-	8.1. [Exercise 04 – Business Logic](#exercise-04-business-logic)
-9. [Chapter IX](#chapter-ix) \
-	9.1. [Exercise 05 – Menu](#exercise-05-menu)
 
 # Chapter I 
 ### Preamble
@@ -38,7 +17,6 @@ Each class must comply with SOLID principles:
 
 Today you should focus on the first SOLID principle.
 
-![javanepunchman](misc/images/javanepunchman.png)
 
 # Chapter II
 ### General Rules
