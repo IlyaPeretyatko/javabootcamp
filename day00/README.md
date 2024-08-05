@@ -272,4 +272,3 @@ Each stage of application operation is separated by "." (period). Absolute corre
 
 Example of how the program works:
 
-![program](misc/images/program.png)
